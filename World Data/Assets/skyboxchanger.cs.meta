@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 07951fdd808e9c343a3d227ca1a8113a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Skyworld: {fileID: 2100000, guid: b5196372cfb0a4441a0aa8c97df95742, type: 2}
+  - SkyUSA: {fileID: 2100000, guid: 88403110192a8964da97b0beacf97c10, type: 2}
+  - SkyAus: {fileID: 2100000, guid: a9dff371020a60f41842eac84dc6f96b, type: 2}
+  - SkyChi: {fileID: 2100000, guid: 3ab6c3ee9579fcc499de3140513a25e7, type: 2}
+  - SkyInd: {fileID: 2100000, guid: 926708f0cc148c842adf7a3ef41f2762, type: 2}
+  - SkyJap: {fileID: 2100000, guid: d8d4fe1ac4c8ed04b9b1204f70e9f5c9, type: 2}
+  - SkyMalay: {fileID: 2100000, guid: 41c142c99caf661448a2a0574d7fac75, type: 2}
+  - SkyRus: {fileID: 2100000, guid: d888f14f94c8c0641a09fc12c2992cc5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
